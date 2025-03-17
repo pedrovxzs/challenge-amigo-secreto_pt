@@ -39,13 +39,13 @@ A interface foi projetada com uma **paleta de cores vibrante** e um **design ami
 Caso queira modificar o visual do projeto, edite o arquivo style.css, onde as variáveis CSS permitem alterar as cores e estilos rapidamente:
 
 css
-Copiar
-Editar
-:root {
-    --color-primary: #4B69FD;   /* Azul principal */
-    --color-secondary: #FFF9EB; /* Fundo claro */
-    --color-button: #fe652b;    /* Botão laranja */
-}
+Copiar  
+Editar  
+:root {  
+    --color-primary: #4B69FD;   /* Azul principal */  
+    --color-secondary: #FFF9EB; /* Fundo claro */  
+    --color-button: #fe652b;    /* Botão laranja */  
+}  
 
 ---
 
